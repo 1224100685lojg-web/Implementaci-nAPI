@@ -134,4 +134,3 @@ Esta actividad es una base importante para el desarrollo de APIs más complejas 
 ## Autor
 
 **Owen**  
-Curso: Desarrollo de APIs
